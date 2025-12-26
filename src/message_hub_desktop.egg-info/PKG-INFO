@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: message-hub-desktop
+Version: 0.1.0
+Summary: Desktop app that aggregates messages from multiple sources (Gmail/Outlook/IMAP) into one inbox.
+Requires-Python: >=3.11
+Requires-Dist: PySide6>=6.6
+Requires-Dist: SQLAlchemy>=2.0
+Requires-Dist: pydantic>=2.6
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: APScheduler>=3.10
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: black>=24.0; extra == "dev"
