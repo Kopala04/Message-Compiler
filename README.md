@@ -56,7 +56,7 @@ src/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/message-hub-desktop.git
+git clone https://github.com/Kopala04/Message-Compiler.git
 cd message-hub-desktop
 
 
